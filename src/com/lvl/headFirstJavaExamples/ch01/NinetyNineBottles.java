@@ -1,5 +1,5 @@
 
-package com.lvl.headFirstJavaExamples;
+package com.lvl.headFirstJavaExamples.ch01;
 
 public class NinetyNineBottles {
 

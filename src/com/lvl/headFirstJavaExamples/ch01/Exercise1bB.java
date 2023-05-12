@@ -1,4 +1,4 @@
-package com.lvl.headFirstJavaExamples;
+package com.lvl.headFirstJavaExamples.ch01;
 
 /**
  * In order to compile, main should be inside a class
